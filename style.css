@@ -1,0 +1,23 @@
+h1{
+    color: white;
+}
+img{
+    height: 300px;
+    width: 400px;
+}
+button{
+    background: linear-gradient(90deg,black,white,black);
+    border-radius: 20px;
+    height: 20px;
+    width: 100px;
+
+}
+body{
+    background: linear-gradient(90deg,rgb(110, 151, 238),rgb(40, 26, 58),rgb(117, 128, 228));
+}
+#a:hover button{
+    background: linear-gradient(90deg,black,brown,pink,brown,black);
+    color: ghostwhite;
+    height: 20px;
+    width: 100px;
+}
